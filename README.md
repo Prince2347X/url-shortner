@@ -10,3 +10,7 @@
       - Read the docs [here](https://bit.ly/shorteners-info) if you want 🤪
    - If you'll also use bitly api then get a access token [here.](https://bitly.is/accesstoken) 
    - And you're ready to go!
+
+#### In this Repo:
+   - An [example](/shortener.py) on how **pyshorteners** work.
+   - Some [more features](/something-more.py) except just shortening links.
