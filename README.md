@@ -14,3 +14,6 @@
 #### In this Repo:
    - An [example](/shortener.py) on how **pyshorteners** work.
    - Some [more features](/something-more.py) except just shortening links.
+      - Such as:
+       1. Expanding the short link(to it's original form)
+       2. Total number of clicks on this link.
