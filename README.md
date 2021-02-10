@@ -1,6 +1,7 @@
 # url-shortner
 ![](https://img.shields.io/github/languages/top/Prince2347X/url-shortner)
 ![](https://img.shields.io/github/last-commit/Prince2347X/url-shortner)
+![](https://img.shields.io/badge/By-Prince%20Raj-yellowgreen?link=https://right&link=https://twitter.com/Prince_2347X)
 #### A useful python project for shortening links.
 
 > I've used bitly api to shorten links. 
