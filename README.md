@@ -1,8 +1,8 @@
 # url-shortner
 ![](https://img.shields.io/github/languages/top/Prince2347X/url-shortner)
 ![](https://img.shields.io/github/last-commit/Prince2347X/url-shortner)
-![](https://img.shields.io/badge/By-Prince%20Raj-yellowgreen?link=https://right&link=https://twitter.com/Prince_2347X)
-#### An useful python project for shortening links.
+[![](https://img.shields.io/badge/By-Prince%20Raj-yellowgreen)](https://twitter.com/prince2347x)
+#### A useful python project for shortening links.
 
  
 ### Steps to setup:
